@@ -1,4 +1,4 @@
-# Sungkyul Uiversity - College of Engineering - Department of Information and Telecommunication Engineering - 20170910 Park Soo-young
+# Sungkyul University - College of Engineering - Department of Information and Telecommunication Engineering - 20170910 Park Soo-young
 # Data Structure Report : infix to postfix
 
 
